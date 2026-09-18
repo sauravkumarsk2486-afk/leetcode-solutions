@@ -1,6 +1,6 @@
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
-        int k=0;
+        
         int sum=0;
         int n=candies.length;
         
