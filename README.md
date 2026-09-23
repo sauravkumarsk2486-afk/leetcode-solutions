@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -41,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
