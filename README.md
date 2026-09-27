@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
