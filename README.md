@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2409-count-days-spent-together](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/2409-count-days-spent-together) |
