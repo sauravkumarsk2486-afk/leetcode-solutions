@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting Sort
 |  |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
