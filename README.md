@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0141-linked-list-cycle) |
