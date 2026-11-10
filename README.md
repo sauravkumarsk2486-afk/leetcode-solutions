@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
