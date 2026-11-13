@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sauravkumarsk2486-afk/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Monotonic Stack
 |  |
